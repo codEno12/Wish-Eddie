@@ -98,3 +98,5 @@ Syntax:
 |[Vinyl Davyl](https://twitter.com/Vinylchi)| Happy birthday, Eddie! Highly appreciate what you do with the community, Big Amen to your secret prayers✨|
 |||
 
+|[Eno](https://twitter.com/codEno_12)| Happy Birthday Eddie! This is my first open source contribution and couldn't be more happy for it to be celebrating your birthday! Keep doing what you are doing! | 
+
